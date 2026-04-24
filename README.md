@@ -23,7 +23,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" /></td>
   </tr>
-  <tr height="66" align="center">
+  <tr height="76" align="center">
     <td><img src="https://skillicons.dev/icons?i=express" height="40" width="52" alt="express logo" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="52" alt="nestjs logo" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" /></td>
@@ -35,48 +35,48 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
 </table>
 
 ## 🌐 Social Media
-<p align="center">
-  <a href="https://www.linkedin.com/in/karimsherif7232">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52"
-      height="40"
-      alt="linkedin logo"
-    />
-  </a>
 
-  <a href="mailto:karimsherif77881@gmail.com">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52"
-      height="40"
-      alt="gmail logo"
-    />
-  </a>
-
-  <a href="https://t.me/kemoosh1232">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-      width="52"
-      height="40"
-      alt="telegram logo"
-    />
-  </a>
-
-  <a href="https://wa.me/201227377881">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-      width="52"
-      height="40"
-      alt="whatsapp logo"
-    />
-  </a>
-</p>
-
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
-</picture>
-
+<table>
+  <tr height="76">
+    <td>
+      <a href="https://www.linkedin.com/in/karimsherif7232">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+          width="52"
+          height="40"
+          alt="linkedin logo"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:karimsherif77881@gmail.com">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+          width="52"
+          height="40"
+          alt="gmail logo"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/kemoosh1232">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+          width="52"
+          height="40"
+          alt="telegram logo"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://wa.me/201227377881">
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+          width="52"
+          height="40"
+          alt="whatsapp logo"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
