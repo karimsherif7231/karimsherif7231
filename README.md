@@ -120,7 +120,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="linkedin logo"
     />
   </a>
-  <a href="">
+  <a href="mailto:karimsherif77881@gmail.com">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="52"
@@ -128,7 +128,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="gmail logo"
     />
   </a>
-  <a href="">
+  <a href="https://t.me/kemoosh1232">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
       width="52"
@@ -136,7 +136,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="telegram logo"
     />
   </a>
-  <a href="">
+  <a href="https://wa.me/201227377881">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
       width="52"
