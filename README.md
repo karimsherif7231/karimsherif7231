@@ -9,109 +9,33 @@ I’m also exploring AI automation using n8n to enhance workflow efficiency and 
 I value teamwork, clear communication, adaptability, and responsible leadership, and I’m always open to learning from others and contributing wherever I can. My long-term goal is to build a product-focused business that delivers meaningful and positive impact through technology.
 
 ## 🤹 Skills
-<div style="display: flex;flex-wrap:wrap;" align=center>
-    <img
-      src="https://techstack-generator.vercel.app/js-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/ts-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/react-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/redux-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/sass-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/prettier-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/python-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/docker-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-    <img
-      src="https://techstack-generator.vercel.app/mysql-icon.svg"
-      alt="icon"
-      width="66"
-      height="66"
-    />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    height="40" width="52"
-    alt="nextjs logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="40" width="52"
-    alt="nodejs logo"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=express"
-    height="40" width="52"
-    alt="express logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
-    height="40" width="52"
-    alt="nestjs logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-    height="40" width="52"
-    alt="php logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
-    height="40" width="52"
-    alt="laravel logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-    height="40" width="52"
-    alt="postgresql logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="40" width="52"
-    alt="mongodb logo"  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    height="40" width="52"
-    alt="figma logo"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="66" height="66" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" /></td>
+  </tr>
+  <tr height="66" align="center">
+    <td><img src="https://skillicons.dev/icons?i=express" height="40" width="52" alt="express logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="52" alt="nestjs logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" /></td>
+  </tr>
+</table>
 
 ## 🌐 Social Media
-<div style="">
+<p align="center">
   <a href="https://www.linkedin.com/in/karimsherif7232">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
@@ -120,6 +44,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="linkedin logo"
     />
   </a>
+
   <a href="mailto:karimsherif77881@gmail.com">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
@@ -128,6 +53,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="gmail logo"
     />
   </a>
+
   <a href="https://t.me/kemoosh1232">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
@@ -136,6 +62,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="telegram logo"
     />
   </a>
+
   <a href="https://wa.me/201227377881">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
@@ -144,7 +71,7 @@ I value teamwork, clear communication, adaptability, and responsible leadership,
       alt="whatsapp logo"
     />
   </a>
-</div>
+</p>
 
 ##
 <picture>
